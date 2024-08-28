@@ -7,16 +7,9 @@ _______________
 
   ### Linguagens Estudadas:
 
-  <img src="src/iconeJava.png" width="50px" height= "50px" alt="Icone do Linkedin">
-  <img src="src/iconeHtml.png" width="50px" height= "50px" alt="Icone do Linkedin">
-  <img src="src/iconeCss.png" width="50px" height= "50px" alt="Icone do Linkedin">
-  <img src="src/iconeJavaScript.png" width="50px" height= "50px" alt="Icone do Linkedin">
-  <img src="src/iconePython.png" width="50px" height= "50px" alt="Icone do Linkedin">
-  <img src="src/iconeGitHub.png" width="50px" height= "50px" alt="Icone do Linkedin">
+  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,python,github">
 
-</div>
-
-___
+________
 
 <div align="center">
 
@@ -24,7 +17,8 @@ ___
 
 </div>
 
-___
+_______
+
 <div align="center">
 
   ### Sobre: :punch:
@@ -44,7 +38,7 @@ ___
 
 </div>
 
-___
+_______
 
 <div align="center">
 
@@ -58,6 +52,7 @@ ___
 ___
 
 ### Muito obrigado!! :satisfied:
+
 ![gif do cachorrinho no pc](https://i.gifer.com/fyFn.gif)
 
 ___
