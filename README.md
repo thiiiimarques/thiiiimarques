@@ -20,7 +20,7 @@ ___
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&layout=compact&title_color=BFFF00&text_color=fff&bg_color=0d1117&border_color=fff0)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&layout=normal&title_color=BFFF00&text_color=fff&bg_color=0d1117&border_color=fff0)
 
 </div>
 
@@ -50,7 +50,7 @@ ___
 
   ### Contatos:
 
-  <a href="https://www.linkedin.com/in/tiagomarquesss/"> <img src="src/iconeLinkedin.png" width="50px" height= "50px" alt="Icone do Linkedin"> </a> <a href="tiagomarques2283@hotmail.com"> <img src="src/iconeEmail.png" width="50px" height= "55px" alt="Icone do E-mail"> </a>
+  <a href="https://www.linkedin.com/in/tiagomarquesss/"> <img src="src/iconeLinkedin.png" width="50px" height= "50px" alt="Icone do Linkedin"> </a><a href="tiagomarques2283@hotmail.com"> <img src="src/iconeEmail.png" width="50px" height= "55px" alt="Icone do E-mail"> </a>
 
 </div>
 
