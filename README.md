@@ -1,23 +1,25 @@
 <h2 align="center">Olá Pessoal, Sejam bem vindos ao meu GitHub!</h2>
 
 ###### :construction: Em construção :construction:
-_______________
+
+<br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
 <div align="center">
 
-  ### Linguagens Estudadas:
+  ### Habilidades adquiridas ou em processo de estudos:
 
   <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,python,github">
 
-________
+<br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&layout=normal&title_color=BFFF00&text_color=fff&bg_color=0d1117&border_color=fff0)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiiiimarques&show_icons=true&theme=radical&title_color=BFFF00&text_color=fff&bg_color=0d1117&border_color=fff0)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&layout=compact&title_color=BFFF00&text_color=fff&bg_color=0d1117&border_color=fff0)
 
 </div>
 
-_______
+<br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
 <div align="center">
 
@@ -38,7 +40,7 @@ _______
 
 </div>
 
-_______
+<br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
 <div align="center">
 
@@ -49,10 +51,8 @@ _______
 </div>
 
 
-___
+<br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
-### Muito obrigado!! :satisfied:
+### Obrigado e Até logo!! :satisfied:
 
 ![gif do cachorrinho no pc](https://i.gifer.com/fyFn.gif)
-
-___
