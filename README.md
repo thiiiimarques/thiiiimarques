@@ -1,4 +1,8 @@
-## Olá Pessoal, Sejam bem vindos ao meu GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" />
+<div align="center">
+
+  ## Olá Pessoal, Sejam bem vindos ao meu GitHub! <img src="src/iconeHello.gif" alt="Icone de saudação" width="40" height="40" />
+
+</div>
 
 ###### :construction: Em construção :construction:
 
@@ -9,6 +13,8 @@
   ### Habilidades adquiridas ou em processo de estudos:
 
   <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,python,github">
+
+</div>
 
 <br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
@@ -53,6 +59,8 @@
 
 <br> <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
-### Obrigado e Até logo!! :satisfied:
+<div align="center">
 
-![gif do cachorrinho no pc](https://i.gifer.com/fyFn.gif)
+  ### Obrigado e Até logo!! <img src="src/iconeAteLogo.gif" alt="Icone de saudação" width="40" height="40" />
+
+</div>
