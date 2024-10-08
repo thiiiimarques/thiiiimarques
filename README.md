@@ -12,7 +12,7 @@
 
   ### Habilidades adquiridas ou em processo de estudos:
 
-  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,python,github">
+  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,git,github">
 
 </div>
 
