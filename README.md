@@ -40,7 +40,7 @@
 
   #  🌐 Contatos:
 
-  <a href="https://www.linkedin.com/in/tiagomarquesss/"> <img src="src/iconeLinkedin.png" width="50px" height= "50px" alt="Icone do Linkedin"> </a><a href="tiagomarques2283@hotmail.com"> <img src="src/iconeEmail.png" width="50px" height= "55px" alt="Icone do E-mail"> </a>
+  <a href="https://www.linkedin.com/in/tiagomarquesss/" target="blank"> <img src="src/iconeLinkedin.png" width="50px" height= "50px" alt="Icone do Linkedin"> </a><a href="tiagomarques2283@hotmail.com" target="blank"> <img src="src/iconeEmail.png" width="50px" height= "55px" alt="Icone do E-mail"> </a>
 
 <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
