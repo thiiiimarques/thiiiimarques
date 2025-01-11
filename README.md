@@ -1,22 +1,6 @@
   # Bem vindos ao meu GitHub! <img src="src/iconeHello.gif" alt="Icone de saudação" width="40" height="40" />
 <img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
-  # 💻 Skills
-
-  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,typescript,git,github,bootstrap,figma,nodejs">
-
-  <img src="src/lineBar.png" width="100%" height="8px" /> </br>
-
-# 📊 GitHub Stats:
-
-  | ![](https://github-readme-stats.vercel.app/api?username=thiiiimarques&theme=merko&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&theme=merko) |
-  | ----------- | ----------- |
-
-  | ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiiiimarques&theme=merko&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiiiimarques&theme=merko) |  
-  | ----------- | ----------- |
-
-<img src="src/lineBar.png" width="100%" height="8px" /> </br>
-
 
   # :punch: Sobre: 
 
@@ -30,6 +14,23 @@
   - :muscle: Compromisso com o crescimento profissional e contribuição para o sucesso da organização.
 
 <img src="src/lineBar.png" width="100%" height="8px" /> </br>
+
+  # 💻 Skills
+
+  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,typescript,git,github,bootstrap,figma,nodejs">
+
+  <img src="src/lineBar.png" width="100%" height="8px" /> </br>
+
+# 📊 GitHub Stats:
+
+  | ![](https://github-readme-stats.vercel.app/api?username=thiiiimarques&theme=merko&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiiiimarques&theme=merko) |
+  | ----------- | ----------- |
+
+  | ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiiiimarques&theme=merko&utcOffset=-3) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiiiimarques&theme=merko) |  
+  | ----------- | ----------- |
+
+<img src="src/lineBar.png" width="100%" height="8px" /> </br>
+
 
 # ✍️ Random Dev Quote
 
