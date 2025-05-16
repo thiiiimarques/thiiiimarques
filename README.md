@@ -17,7 +17,7 @@
 
 # 💻 Skills
 
-  <img src="https://skillicons.dev/icons?i=vscode,java,js,html,css,typescript,git,github,bootstrap,figma,nodejs">
+  <img src="https://skillicons.dev/icons?i=vscode,java,js,nodejs,html,css,typescript,git,github,bootstrap,figma,postman,mongodb,notion,sqlite">
 
 <br><img src="src/lineBar.png" width="100%" height="8px" /> </br>
 
